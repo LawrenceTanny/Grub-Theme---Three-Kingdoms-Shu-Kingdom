@@ -3,7 +3,7 @@ desktop-image: "Guanyu.png"
 #Boot menu
 + boot_menu {
 	left = 35%
-	top = 55%
+	top = 35%
 	width = 540
 	height = 500
 
@@ -24,7 +24,7 @@ desktop-image: "Guanyu.png"
 + image {
 	file = "Shu.png"
 	top = 5%
-	left = 20%
+	left = 75%
 }
 
 #Timeout
