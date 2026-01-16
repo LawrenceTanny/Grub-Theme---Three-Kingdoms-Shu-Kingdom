@@ -29,4 +29,4 @@ sudo update-grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
  - Reboot your PC
-Thanks
+
